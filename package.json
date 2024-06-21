@@ -27,8 +27,8 @@
     "@trpc/server": "^10.34.0",
     "@vercel/analytics": "^1.0.1",
     "eventsource-parser": "^1.0.0",
-    "next": "^13.4.9",
-    "pdfjs-dist": "3.8.162",
+    "next": "^14.1.1",
+    "pdfjs-dist": "4.2.67",
     "plantuml-encoder": "^1.4.0",
     "prismjs": "^1.29.0",
     "react": "^18.2.0",
@@ -37,7 +37,7 @@
     "remark-gfm": "^3.0.1",
     "superjson": "^1.12.4",
     "uuid": "^9.0.0",
-    "zod": "^3.21.4",
+    "zod": "^3.22.3",
     "zustand": "^4.3.9"
   },
   "devDependencies": {
